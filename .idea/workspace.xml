@@ -4,7 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d5f720a-c45e-4cba-840b-1944afe7c29f" name="Default Changelist" comment="" />
+    <list default="true" id="0d5f720a-c45e-4cba-840b-1944afe7c29f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sun/springmvc/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sun/springmvc/controller/OrderController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +48,7 @@
         <counts>
           <entry key="css" value="2" />
           <entry key="ft" value="23" />
-          <entry key="java" value="1127" />
+          <entry key="java" value="1201" />
           <entry key="jsp" value="107" />
           <entry key="properties" value="34" />
           <entry key="txt" value="22" />
@@ -56,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="JAVA" value="1127" />
+          <entry key="JAVA" value="1201" />
           <entry key="JSP" value="107" />
           <entry key="PLAIN_TEXT" value="22" />
           <entry key="Properties" value="34" />
@@ -126,8 +128,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sun/springmvc/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="352">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -291,6 +293,9 @@
       <find>servlet</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -401,6 +406,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -541,7 +547,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578560918309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578562154063" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EMC/emc-admin" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -641,12 +647,12 @@
       <updated>1578385800497</updated>
       <workItem from="1578385804062" duration="941000" />
       <workItem from="1578454118380" duration="17963000" />
-      <workItem from="1578531525128" duration="11744000" />
+      <workItem from="1578531525128" duration="12047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30648000" />
+    <option name="totallyTimeSpent" value="30951000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -674,7 +680,7 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Run" order="4" weight="0.344098" />
-      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.43541202" />
+      <window_info active="true" anchor="bottom" id="Debug" order="5" visible="true" weight="0.43589744" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32962137" />
@@ -870,8 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sun/springmvc/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="352">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

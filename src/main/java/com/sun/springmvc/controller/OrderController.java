@@ -32,8 +32,16 @@ public class OrderController {
 
     @RequestMapping("/getAll")
     @ResponseBody
-    public List<Order> getAll(){
+    public String getAll(){
+        String result = "1";
+        try {
+            return result;
+        }catch (Exception e){
 
+        }finally {
+            result = "2";
+        }
+        System.out.println(result);
         System.out.println(sessionContext.get());
       //  List<Order> orders = orderService.selectList(null);
         return null;
