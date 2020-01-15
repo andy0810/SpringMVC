@@ -37,17 +37,17 @@ public class OrderController {
       //  List<Order> orders = orderService.selectList(null);
         return null;
     }
-    public static void main(String[] args){
-        String s = "/vehicleData/vehicleList/aa/dd";
-        for (String s1:s.split("vehicleData")){
-            System.out.println(s1);
-        }
-        System.out.println("--------------------"+s.split("vehicleList").length);
-        for (String s1:"/dd".split("dd")){
-            System.out.println(s1);
-        }
-        System.out.println("-------"+s.split("dd")[0] + "xx");
-        System.out.println("/dd".split("dd").length);
-    }
+//    public static void main(String[] args){
+//        String s = "/vehicleData/vehicleList/aa/dd";
+//        for (String s1:s.split("vehicleData")){
+//            System.out.println(s1);
+//        }
+//        System.out.println("--------------------"+s.split("vehicleList").length);
+//        for (String s1:"/dd".split("dd")){
+//            System.out.println(s1);
+//        }
+//        System.out.println("-------"+s.split("dd")[0] + "xx");
+//        System.out.println("/dd".split("dd").length);
+//    }
 }
 
